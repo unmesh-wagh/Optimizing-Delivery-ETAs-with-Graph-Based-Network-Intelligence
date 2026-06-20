@@ -175,15 +175,13 @@ By improving ETA prediction and route planning, the system enables logistics tea
 
 ---
 
-## Visualizations
+### Visualizations
 
-### Network Bottlenecks
+**Network Bottlenecks**
+![Network Bottlenecks Diagram](images/network_bottlenecks.jpeg)
 
-![Network Graph](PS4_Delivery_ETA_Submission/images/network%20bottlenecks.jpeg)
-
-### Model Benchmarks
-
-![Benchmarks](PS4_Delivery_ETA_Submission/images/model%20benchmarks.jpeg)
+**Model Benchmarks**
+![Model Benchmarks Chart](images/model_benchmarks.jpeg)
 
 ---
 
